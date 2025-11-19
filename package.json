@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dhanadharsini/java-ci-pipeline/issues"
   },
-  "homepage": "https://github.com/dhanadharsini/java-ci-pipeline#readme"
+  "homepage": "https://github.com/dhanadharsini/java-ci-pipeline#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
